@@ -32,7 +32,6 @@
     </div>
     <script src="script.js"></script>
 </body>
-
 body {
     font-family: Arial, sans-serif;
     display: flex;
